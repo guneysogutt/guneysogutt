@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guneysogutt
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python, C# and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
