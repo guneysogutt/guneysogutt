@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @guneysogutt
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Python, C# and Java, C and Julia
+- 🌱 I’m currently learning Python, C#, Java, C and Julia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
