@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/guney-sogut-23a081223#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/guney-sogut-23a081223#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/guney-sogut-23a081223#gh-light-mode-only){:target="_blank"}
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/guney-sogut-23a081223#gh-dark-mode-only){:target="_blank"}
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/guneysogut8#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/guneysogut8#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/guneysogut8#gh-light-mode-only){:target="_blank"}
+[![website](./img/instagram-dark.svg)](https://instagram.com/guneysogut8#gh-dark-mode-only){:target="_blank"}
 
 
 <!---
