@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m @guneysogutt
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Python, C#, Java, C and Julia
+- 👀 I’m interested in IoT, IIoT, Machine Learning and AI
+- 🌱 I’m currently learning Go, Rust, Python, C#, Java, C and Julia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
