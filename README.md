@@ -56,5 +56,5 @@ Let's connect and collaborate! You can find me on:
 
 ---
 
-⭐️ **Thanks for visiting!** Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just chat about tech.
+⭐️ **Thanks for visiting!** Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just chat.
 
