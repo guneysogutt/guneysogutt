@@ -20,6 +20,9 @@ You can click the Preview link to take a look at your changes.
 [![website](./img/instagram-dark.svg)](https://instagram.com/guneysogut8#gh-dark-mode-only)
 
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 <!---
 <details>
   <summary>:zap: GitHub Stats</summary>
