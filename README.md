@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![stats](https://github-readme-stats.vercel.app/api?username=guneysogutt&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-[![Guney's GitHub stats](https://github-readme-stats.vercel.app/api?username=guneysogutt)](https://github.com/anuraghazra/github-readme-stats)
+[![Guney's GitHub stats](https://github-readme-stats.vercel.app/api?username=guneysogutt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 <details>
